@@ -1,0 +1,62 @@
+a,h1,h2,h3,h4,h5,h6,ul,li,dl,dt,dd,p,img,table,form,html,body,fieldset,legend,input,textarea,select{ padding:0; margin:0;}
+a{ text-decoration:none}
+a:hover{color: #ed145b}
+ul,li{ list-style:none}
+input{ border:0; background:none;}
+img{ border:0;}
+table{border-collapse:collapse;border-spacing:0}
+em i{font-style: normal;}
+.wrap{width:1091px; margin:0 auto;}
+.top,.logo,.nav,.banner,.imglist,.everyday,.main,.newproduct,.brand,.footer,.foot_img,.foot_ul,.foot_gray,.foot_black{ min-width:1091px;}
+
+
+
+
+.top{height: 85px}
+.top_a_0{height: 85px;width: 165px;float: left;}
+.top_a_1{height: 31px;width: 117px;float: right;background: url("../img/header_corn_new_v2.png");margin-top:35px }
+.top_000{background-position: 0 -31px}
+.top_001{background-position: 0 -64px}
+
+.main{height: 480px}
+.main .wrap{height: 420px;background: url("../img/signPic.jpg.png") no-repeat left bottom;}
+.main_right{width: 340px;height: 377px;padding:20px;float: right;box-shadow: 0 1px 4px #c5c5c5;margin-top: 50px;position: relative;}
+.main_right span{height: 20px;width: 170px;float: left;font:20px/20px "";font-weight: 900;color: #f8296d}
+.main_right h3{height: 20px;width: 100px;float: left;font: 12px/20px "";color: #666}
+.main_right h4{height: 20px;width: 60px;float: left;font: 12px/20px "";color: #f8296d}
+.input_1{width: 340px;height: 40px;margin-top: 20px;float: left;border:1px solid #ccc;text-indent: 15px}
+.main_right p{width: 340px;height: 30px;float: left;font:12px/30px "";color: #666;visibility: hidden;}
+.input_2{width: 140px;height: 38px;border:1px solid #ccc;text-indent: 15px;margin-right: 20px;float: left;}
+.main_right button{width: 140px;height: 40px;border:1px solid #ccc;text-indent: 15px;position: absolute;right: 20px;top: 130px}
+.input_3{width: 340px;height: 40px;float: left;border:1px solid #ccc;text-indent: 15px}
+.input_4{width: 340px;height: 40px;float: left;border:1px solid #ccc;text-indent: 15px}
+.main_right .aigin{width: 340px;height: 40px;font: 14px/40px "";background: #f8296d;color: #fff;text-align: center;float: left;}
+
+
+
+.footer{height: 220px;margin-top: 100px}
+.footer p{height: 23px;width: 1090px;font: 12px/23px "";text-align: center;}
+.footer .wrap div{width: 127px;height: 50px;float: left;background: url("../img/header_corn_new_v2.png") no-repeat 0 -168px;border-bottom: 1px solid #ccc;margin-right: 10px}
+.footer .wrap .foot_div_0{margin-left: 200px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
